@@ -1,0 +1,113 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eceef1;
+}
+
+.sign-in {
+    float: right;
+    display: flex;
+    margin-top: 1rem !important;
+    margin-right: 1rem;
+    
+}
+
+.sign-in-text {
+    margin: 0;
+    padding: 0;
+    margin-right: 0.5rem;
+    
+}
+
+.sign-in-text p {
+    margin: 0;
+    padding: 2px;
+}
+.sign-in-text a {
+    margin: 0;
+    padding: 0;
+}
+
+
+.sign-in button {
+    float: right;
+    background-color: #0077c5;
+    color: white;
+    width: 7rem;
+    height: 2.5rem;
+    border-radius: 4px;
+    padding: 0;
+    margin: 0;
+}
+
+.sign-in img {
+    width: 0.8rem;
+    padding-right: 2px;
+}
+
+.login-section {
+    margin-left: 40%;
+   padding-top: 10%;
+    
+}
+
+.login-form {
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    border: 0.5px rgb(209, 199, 199) solid;
+}
+.login-form a {
+    text-decoration: none;
+}
+.login-form p {
+    margin: 0;
+    padding: 0;
+}
+
+.login-form label {
+    display: block;
+    padding-top: 2rem;
+    text-align: left;
+    margin-left: 13.9%;
+}
+
+.login-form img {
+    width: 0.8rem;
+    padding-right: 2px;
+}
+
+.login-form input {
+    width: 20vw;
+    padding: 2vh;
+    border-radius: 3px;
+    border: 0.5px rgb(209, 199, 199) solid;
+}
+
+.form-items p {
+    font-size: 10px;
+    text-align: left;
+    padding-left: 13.9%;
+}
+
+.form-items button {
+    width: 10rem;
+    padding: 0.7rem;
+    margin: 1rem;
+    background-color: #0077c5;
+    color: white;
+    border-radius: 3px;
+}
+
+.privacy-statement {
+    width:70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.privacy-statement i {
+    color: grey;
+    font-size: 12px;
+}
