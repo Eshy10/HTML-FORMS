@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eceef1;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.sign-in {
+  float: right;
+  display: flex;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+.sign-in-text {
+  margin: 0;
+  padding: 0;
+  margin-right: 0.5rem;
+}
+
+.sign-in-text p {
+  margin: 0;
+  padding: 0;
+}
+
+.sign-in-text a {
+  margin: 0;
+  padding: 0;
+}
+
+.sign-in button {
+  float: right;
+  background-color: #0077c5;
+  color: white;
+  width: 7rem;
+  height: 2.5rem;
+  border-radius: 4px;
+  padding: 0;
+  margin: 0;
+}
+
+.sign-in img {
+  width: 0.8rem;
+  padding-right: 2px;
+}
+
+.login-section {
+  margin-left: 40vw;
+  padding-top: 10%;
+}
+
+.login-section img {
+  width: 14%;
+  margin-left: 8%;
+}
+
+.login-section ul {
+  list-style: none;
+  display: flex;
+  margin-left: -2.6%;
+  margin-bottom: 0;
+}
+
+.logo-links img {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+.logo-links a {
+  text-decoration: none;
+  color: grey;
+  padding: 1%;
+  display: flex;
+}
+
+.logo-links p {
+  margin-top: 0;
+  margin-left: 2px;
+}
+
+.login-form {
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  width: 25vw;
+  border: 0.5px rgb(209, 199, 199) solid;
+}
+
+.login-form a {
+  text-decoration: none;
+}
+
+.login-form p {
+  margin: 0;
+  padding: 0;
+}
+
+.login-form label {
+  display: block;
+  padding-top: 2rem;
+  text-align: left;
+  margin-left: 5.5%;
+}
+
+.login-form img {
+  width: 0.8rem;
+  padding-right: 2px;
+}
+
+.login-form input {
+  width: 20vw;
+  padding: 2vh;
+  border-radius: 3px;
+  border: 0.5px rgb(209, 199, 199) solid;
+}
+
+.form-items p {
+  font-size: 10px;
+  text-align: left;
+  padding-left: 5.5%;
+}
+
+.form-items button {
+  width: 22vw;
+  padding: 0.7rem;
+  margin: 1rem;
+  background-color: #0077c5;
+  color: white;
+  border-radius: 3px;
+}
+
+.password-img {
+  margin-left: -1.5rem;
+  opacity: 0.3;
+  margin-top: 2px;
+}
+
+.privacy-statement {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.privacy-statement i {
+  color: grey;
+  font-size: 12px;
+}
+
+.form-footer {
+  background: #eceef1;
+  border-bottom: 0.5px rgb(209, 199, 199) solid;
+  border-right: 0.5px rgb(209, 199, 199) solid;
+}
+
+.form-footer p {
+  font-size: 11px;
+  padding: 0.8rem;
+}
+
+.footer-section {
+  text-align: center;
+  color: rgb(87, 87, 87);
+}
+
+.footer-section ul {
+  list-style: none;
+  display: flex;
+  margin-left: 43%;
+  margin-bottom: 0;
+}
+
+.footer-section li {
+  padding: 5px;
+  font-size: 12px;
+}
+
+.footer-section p {
+  margin-top: 0;
+  width: 60vw;
+  margin-left: 20%;
+  font-size: 12px;
+}
