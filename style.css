@@ -50,7 +50,32 @@ body {
 }
 
 .login-section img {
-  width: 34%;
+  width: 14%;
+  margin-left: 8%;
+}
+
+.login-section ul {
+  list-style: none;
+  display: flex;
+  margin-left: -2.6%;
+  margin-bottom: 0;
+}
+
+.logo-links img {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+.logo-links a {
+  text-decoration: none;
+  color: grey;
+  padding: 1%;
+  display: flex;
+}
+
+.logo-links p {
+  margin-top: 0;
+  margin-left: 2px;
 }
 
 .login-form {
