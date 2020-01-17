@@ -45,8 +45,12 @@ body {
 }
 
 .login-section {
-  margin-left: 40%;
+  margin-left: 40vw;
   padding-top: 10%;
+}
+
+.login-section img {
+  width: 34%;
 }
 
 .login-form {
